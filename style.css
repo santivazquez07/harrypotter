@@ -1,0 +1,47 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.nota{
+    color:black;
+    font-size: 20px;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float:left;
+}
+
+.left_disk{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed, #volume{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.right_disk{
+    width: 200px;
+    border-radius: 100px;   
+}
+
+.div_volume{
+    float: right;
+}
+
+.reproducir, .parar{
+    width: 145px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
